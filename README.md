@@ -50,11 +50,12 @@ Line 501:<br>
 r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
 <br>
-
+<p>
+  
 <h2>R Codes</h2>
 The following are the R codes used:<br>
 <p>
 <b>LoadData.r</b> = Code provided in the course to load the dataset. Takes time to load<br>
 <b>DataAnalysis.r</b> = Code used for data analysis, consistent with the R Markdown File<br>
-<b>MovieUserGenreRegularization</b> = Code used to perform regularization on the L(M,U,G) function. Takes time to execute, thus saved in a separate file.<br>
+<b>MovieUserGenreRegularization</b> = Code used to perform regularization on the LM(M,U,G) function. Takes time to execute, thus saved in a separate file.<br>
 </p>
