@@ -52,7 +52,7 @@ r setup_2, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 
 Line 501:<br>
 
 ```
-r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval} = FALSE #change 'eval = FALSE' to 'eval = TRUE'
+r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
 <br>
 <br>
