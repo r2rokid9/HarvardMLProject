@@ -20,6 +20,8 @@ rmses <- readRDS("rmses.RData")
 lambdas <- readRDS("lambdas.RData")
 ```
 
+<h2>Running the .RMD code</h1>
+
 If you wish to run the code .rmd code AS IS, you may download the preloaded values here:<br>
 
 edx = https://drive.google.com/file/d/1yvlkdKuIO-xSiyAQ9GddrWy_kWnBwKtg/view?usp=sharing<br>
@@ -27,7 +29,9 @@ validation = https://github.com/r2rokid9/HarvardMLProject/blob/master/PreloadedD
 lambdas = https://github.com/r2rokid9/HarvardMLProject/blob/master/PreloadedData/lambdas.RData<br>
 rmses = https://github.com/r2rokid9/HarvardMLProject/blob/master/PreloadedData/rmses.RData<br>
 <br>
-OR<br>
+
+<h3>OR</h3>
+<br>
 <br>
 change the 'eval = FALSE' to 'eval = TRUE'<br>
 <br>
@@ -47,6 +51,7 @@ r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #
 ```
 <br>
 
+<h2>R Codes</h2>
 The following are the R codes used:<br>
 <p>
 <b>LoadData.r</b> = Code provided in the course to load the dataset. Takes time to load<br>
