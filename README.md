@@ -54,7 +54,8 @@ Line 501:<br>
 ```
 r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval} = FALSE #change 'eval = FALSE' to 'eval = TRUE'
 ```
-
+<br>
+<br>
 Then Change Line 34 to add `eval = FALSE` at the end of the options:<br>
 
 ```
