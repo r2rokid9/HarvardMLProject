@@ -52,7 +52,13 @@ r setup_2, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 
 Line 501:<br>
 
 ```
-r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
+r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval} = FALSE #change 'eval = FALSE' to 'eval = TRUE'
+```
+
+Then Change Line 34 to add `eval = FALSE` at the end of the options:<br>
+
+```
+r load, echo = FALSE,message = FALSE, warning = FALSE,eval = FALSE}
 ```
 
 <br>
