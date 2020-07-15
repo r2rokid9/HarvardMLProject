@@ -59,7 +59,7 @@ r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #
 <p>
   
 <h2>R Codes</h2>
-The following are the R codes used:<br>
+The following are the R codes used:<br><br>
 <p>
 <b>LoadData.r</b> = Code provided in the course to load the dataset. Takes time to load<br>
 <br>
