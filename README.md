@@ -37,18 +37,24 @@ change the 'eval = FALSE' to 'eval = TRUE'<br>
 <br>
 Lines <b>65, 102, 501</b><br>
 <br>
-Line 65:
+Line 65:<br>
+
 ```
 r setup, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
-Line 102:
+
+Line 102:<br>
+
 ```
 r setup_2, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
-Line 501:
+
+Line 501:<br>
+
 ```
 r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
+
 <br>
 <p>
   
