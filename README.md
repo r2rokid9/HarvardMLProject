@@ -37,15 +37,15 @@ change the 'eval = FALSE' to 'eval = TRUE'<br>
 <br>
 Lines <b>65, 102, 501</b><br>
 <br>
-Line 65:<br>
+Line 65:
 ```
 r setup, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
-Line 102:<br>
+Line 102:
 ```
 r setup_2, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
-Line 501:<br>
+Line 501:
 ```
 r regularization, echo = TRUE, message = FALSE, warning = FALSE, eval = FALSE} #change 'eval = FALSE' to 'eval = TRUE'
 ```
@@ -57,7 +57,7 @@ The following are the R codes used:<br>
 <p>
 <b>LoadData.r</b> = Code provided in the course to load the dataset. Takes time to load<br>
 <br>
-<b>DataAnalysis.r</b> = Code used for data analysis, consistent with the R Markdown File, but the regularization on LM(M,U,G) function is commented out and placed on a separate file called <b>MovieUserGenreRegularization.r</b><br>
+<b>DataAnalysis.r</b> = Code used for data analysis, consistent with the R Markdown File, but the regularization on LM(M,U,G) function is commented out and placed on a separate file called <b>MovieUserGenreRegularization</b><br>
 <br>
 <b>MovieUserGenreRegularization</b> = Code used to perform regularization on the LM(M,U,G) function. Takes time to execute, thus saved in a separate file.<br>
 </p>
